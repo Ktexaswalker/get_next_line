@@ -1,0 +1,4 @@
+Hola que tal?
+Estoy haciendo esta prueba a ver si funciona
+De momento voy a ver si coinciden los saltos de linea
+Luego vere si termina el texto sin repetir varias veces.
